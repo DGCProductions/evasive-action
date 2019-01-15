@@ -1,11 +1,11 @@
 # **Evasive Action: Dodge the cubes in space!**
 
 ## **Versions**
-Current Version: N/A
+Current Version: [v1.0](https://github.com/DGCProductions/evasive-action/releases/tag/v1.0)
 
 Current BETA: N/A
 
-Upcoming Version: N/A
+Upcoming Version: TBD
 
 [See all versions](https://github.com/DGCProductions/evasive-action/releases)
 
