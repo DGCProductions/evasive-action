@@ -22,7 +22,7 @@ Upcoming Version: N/A
 
 ## **Features (current and future plans)**
 - Moving Space-Ship
-- Space Skybox (from SpaceEngine!)
+- Space Skybox (from SpaceEngine)
 - Incoming Cubes
 - Timer + Highscore
 
