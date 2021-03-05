@@ -16,7 +16,6 @@ Upcoming Version: N/A
 ## **Controls**
 
 - Left Arrow: Move Left
-
 - Right Arrow: Move Right
 
 
